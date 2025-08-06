@@ -10,7 +10,6 @@ This project performs **Human Activity Recognition** using **image data**. It us
 ├── main.py # Model training and evaluation
 ├── utils.py # Helper functions
 ├── requirements.txt # Python dependencies
-└── README.md # You're reading this :)
 
 
 ## 🧠 Activities Recognized
